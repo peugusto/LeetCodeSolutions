@@ -2,9 +2,8 @@ package PalindromeNumber;
 
 public class PalindromeNumber {
 	public static void main(String []args) {
-		System.out.println(isPalindrome(221));
-		System.out.println(isPalindrome(212));
-
+		System.out.println(isPalindrome(221)); // false
+		System.out.println(isPalindrome(212)); // true
 
 	}
 	
